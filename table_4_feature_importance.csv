@@ -1,0 +1,11 @@
+Rank,Feature Name,Importance Score,Direction / Effect,Domain Interpretation
+1,Budget,0.110,Positive,Review manually based on domain logic
+2,Bundle_Price,0.110,Negative,Review manually based on domain logic
+3,Revenue_Generated,0.110,Negative,Review manually based on domain logic
+4,Clicks,0.109,Positive,Review manually based on domain logic
+5,Conversions,0.107,Negative,Review manually based on domain logic
+6,ROI,0.106,Negative,Review manually based on domain logic
+7,Units_Sold,0.101,Negative,Review manually based on domain logic
+8,Discount_Level,0.091,Positive,Review manually based on domain logic
+9,Subscription_Length,0.085,Negative,Review manually based on domain logic
+10,Common_Keywords,0.036,Positive,Review manually based on domain logic

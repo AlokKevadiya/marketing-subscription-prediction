@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Linear Regression,24737.94,28586.97,-0.0
+Decision Tree,32833.45,40315.28,-0.99
+k-NN,26045.05,31020.99,-0.18

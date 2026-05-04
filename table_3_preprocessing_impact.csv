@@ -1,0 +1,5 @@
+Preprocessing Strategy,Accuracy,Precision,Recall,F1-score
+Raw data,0.33,0.32,0.33,0.31
+Imputation,0.33,0.32,0.33,0.31
+Scaling + encoding,0.32,0.32,0.32,0.30
+Full pipeline,0.33,0.33,0.33,0.31

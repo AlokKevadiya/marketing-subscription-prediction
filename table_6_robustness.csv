@@ -1,0 +1,5 @@
+Scenario,Accuracy,Precision,Recall,F1-score / Std. Dev.
+Standard split,0.33,0.34,0.33,0.33 / ±0.01
+5-fold CV,0.34,0.34,0.34,0.34 / ±0.01
+10% noise added,0.33,0.33,0.33,0.33 / ±0.01
+20% missingness,0.33,0.33,0.33,0.33 / ±0.01
